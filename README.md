@@ -1,7 +1,7 @@
 # FullStack
-### Launching Your Full-Stack Web Development Challenge Series
+### Launching Your Full-Stack Web Development Lab Manual Series
 
-I'm excited to hear about your plan to create a problem statement series for full-stack web development. This is a great way to help students build practical, real-world skills. Here's a write-up you can use to announce and promote your initiative.
+I'm excited to announce a plan to create a problem statement series for full-stack web development. This is a great way to help students build practical, real-world skills. Here's a write-up you can use to announce and promote your initiative.
 
 ***
 
