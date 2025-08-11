@@ -1,4 +1,6 @@
-# FullStack
+  <h1 style="align:center;"> NBKR Institue of Technology</h1>
+
+# FullStack 2 lab -Problem Statements        **** for****                     III I SEM CSE/AI/ML
 ### Launching Your Full-Stack Web Development Lab Manual Series
 
 I'm excited to announce a plan to create a problem statement series for full-stack web development. This is a great way to help students build practical, real-world skills. 
@@ -30,3 +32,5 @@ This challenge series is built around the modern web development stack. You'll g
 By participating, you'll not only build a portfolio of projects but also develop a deep understanding of how all the pieces of a web application fit together. You'll learn to manage a database, create RESTful APIs, and connect them seamlessly with a user-friendly front-end. This is the practical experience that employers are looking for.
 
 Stay tuned for the first problem statement, which will be released on our GitHub repository. Get ready to code, build, and grow your skills! 
+
+                                       HARI BABU MUTCHAKALA
