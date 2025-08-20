@@ -1,4 +1,4 @@
-  <h1 style="align:center;"> NBKR Institue of Technology</h1>
+  <h1 style="align:center;"> NBKR Institue of Technology</h1>   <h2> Vidyanagar </h2>
 
 # FullStack 2 lab -Problem Statements        **** for****                     III I SEM CSE/AI/ML
 ### Launching Your Full-Stack Web Development Lab Manual Series
